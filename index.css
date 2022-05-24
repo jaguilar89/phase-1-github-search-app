@@ -11,3 +11,15 @@
 ul {
   list-style: none;
 }
+
+
+.user-name {
+  padding: 15px 0;
+  font-weight: bold;
+  font-size: 2.1rem
+}
+
+.user-avatar {
+  width: 200px;
+  height: 200px;
+}
