@@ -14,12 +14,26 @@ ul {
 
 
 .user-name {
-  padding: 15px 0;
+  padding: 20px 0;
   font-weight: bold;
-  font-size: 2.1rem
+  font-size: 2.1rem;
+  border-bottom: 5px solid black;
 }
 
 .user-avatar {
-  width: 200px;
-  height: 200px;
+  cursor: pointer;
+  width: 150px;
+  height: 150px;
+}
+
+a {
+  font-size: 1.5rem;
+  display: inherit;
+}
+
+.repo-name {
+  padding: 20px 0;
+  font-weight: 300;
+  font-size: 2.1rem;
+  border-bottom: 5px solid black;
 }
